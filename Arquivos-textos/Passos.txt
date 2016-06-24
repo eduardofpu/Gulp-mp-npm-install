@@ -1,0 +1,33 @@
+
+https://github.com/bbranquinho
+
+
+Instalar algum template pronto 
+instalar o git
+instalar o nodejs.org/en/   **versão v4.4.3 para frente**
+instalar o Atom ** Editor de texto **
+
+comandos do git:
+npm --help  ** para instalar vário modulos
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+gulp : ferramenta para facilitar o desenvolvimento
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Se restaurar o computador e preciso instalar de novo
+
+npm install gulp -g  ** instala na pasta raiz o gulp altomaticamente como se fosse o executalvel
+
+npm install gulp --save-dev ** instala local
+
+npm install gulp-connect --save-dev
+
+npm install gulp-inject --save-dev
+
+
+digit na pasta raiz:        gulp
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

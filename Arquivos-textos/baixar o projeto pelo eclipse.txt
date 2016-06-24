@@ -1,0 +1,23 @@
+Crie um repositorio no github
+no eclipse clique com o botão direito no projeto -> team ->Share project
+
+abrira uma aba onde vc apenas tera que selecionar crear novo repositorio e finalizar. não precisa escolher 
+o caminho apenas crie e finalize.
+
+va em windows show view-> git repository
+
+clique no repositorio resente de pois clique com o botão direito sobre o projeto
+team -> commit
+
+de um nome para o campo , marque a caixa de chek box abaixo e finalize, agora o projeto estará com 
+o git amarelinho.
+
+volte na aba que vc abriu pelo show view , clique com o botão direito em Remotes,
+agora la no git copie a url no novo repositorio e cole aqui nessa aba.
+na nova caixa clique em advance, no checke box selesione a segunda opção master ao lado addicione
+marque salvar.
+
+para finalizar, clique com o botão direito no projeto , team Push to utstream .
+finalize.
+
+va no git e atualize o repositorio . Fim

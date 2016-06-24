@@ -1,0 +1,56 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+function retornaPares(array){
+
+return array;
+
+}
+
+var a=[1,2,3,4,5,6];
+console.log("meu array",a);
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+function Par(numero){
+return numero % 2 === 0;
+}
+function Impar(n){
+return !Par(n);
+}
+
+function dobra(numero){
+return numero * 2 ;
+}
+
+var a=[1,2,3,4,5,6];
+
+console.log("apenas pares: ",a.filter(Par));
+console.log("apenas impares: ",a.filter(Impar));
+console.log("Dobra os impares: ",a.filter(Impar).map(dobra));
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+function array(array){
+
+
+for(var i=2; i<array.lenght;i++){
+
+
+}
+return array;
+
+}
+
+var a=[1,2,3,4,5,6];
+
+console.log("Primos: ",a.filter(array));
+
+
+

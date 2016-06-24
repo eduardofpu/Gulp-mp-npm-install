@@ -1,0 +1,29 @@
+
+passos:
+
+Se restaurar o computador e preciso instalar de novo
+
+npm install gulp -g
+
+npm install gulp --save-dev
+
+npm install gulp-connect --save-dev
+
+npm install gulp-inject --save-dev
+
+configure o scripte com:
+
+<!--inject:css-->
+<!--endinject-->
+
+baixe o angular:
+https://angularjs.org	 
+
+baixe a pasta angularJS 1 zip
+
+
+digit na pasta raiz:        gulp
+
+copie dentro da pasta baixada:
+angular.min
+angular-route.min

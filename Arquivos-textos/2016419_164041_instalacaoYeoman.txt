@@ -1,0 +1,70 @@
+﻿ctrl+chift abre o console no crome depois clique em console
+instalação do Yeoman
+https://youtu.be/DGPJNiclZAU
+
+https://github.com/yeoman/generator-angular
+
+
+Instalar o nodejs:  https://nodejs.org/en/
+instalar o git :    https://git-scm.com
+
+site do instruções no github:
+github.com/yeoman/generator-angular
+
+comandos
+Instalação do yeoman
+yeoman.io
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+começando a configuração :
+Se restaurar o computador e preciso instalar de novo
+npm -g install npm ** para atualizar a versão do nodejs mais nova **
+npm install
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Se restaurar o computador e preciso instalar de novo
+varios geradores:  instala todos estes componentes abaixo.
+npm install -g grunt-cli bower yo generator-karma generator-angular
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+mkdir : cria pasta nome da pasta
+Gerar novo yeoman:
+
+yo   angular "nome do projeto"
+
+quando começar : sim somente para o bootStreap
+
+grunt serve : ativa o localhost
+
+
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+se falhar algumas dependencias:para baixar
+npm install grunt --save-dev  instala o node-modules
+npm install generator-angular@0.7.1
+npm uninstall generator-angular
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+npm install -g grunt-cli bower yo generator-karma generator-angular
+
+Este comando acima instala os comandos abaixo em apenas uma linha conforme acima citado.
+
+npm install -g bower
+npm install -g grunt-cli 
+npm install -g yo
+npm install -g generator-karma
+npm install -g generator-angular
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Quando seu projeto esta pronto mas não tem a pasta bower-componentes  instale os dois comandos abaixo: 
+
+bower install ** para instalar a pasta bower-componentes **
+npm install
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
